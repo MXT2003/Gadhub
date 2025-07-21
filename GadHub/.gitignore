@@ -1,0 +1,22 @@
+# Ignore Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+
+# Ignore build results
+bin/
+obj/
+*.exe
+*.dll
+
+# Ignore backup and temporary files
+*.log
+*.tmp
+
+# Ignore DevExpress cache
+*.vsidx
+*.vssscc
+*.cache
+
+# Ignore local settings
+*.dbmdl
