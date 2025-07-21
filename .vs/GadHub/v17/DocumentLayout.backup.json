@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (3)\\GadHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F152839F-10EC-42E9-B922-F87871344683}|GadHub\\GadHub.csproj|d:\\new folder (3)\\gadhub\\gadhub\\giaodienchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F152839F-10EC-42E9-B922-F87871344683}|GadHub\\GadHub.csproj|solutionrelative:gadhub\\giaodienchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152839F-10EC-42E9-B922-F87871344683}|GadHub\\GadHub.csproj|d:\\new folder (3)\\gadhub\\gadhub\\giaodienchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152839F-10EC-42E9-B922-F87871344683}|GadHub\\GadHub.csproj|solutionrelative:gadhub\\giaodienchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiaoDienChinh.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\GadHub\\GadHub\\GiaoDienChinh.cs",
+              "RelativeDocumentMoniker": "GadHub\\GiaoDienChinh.cs",
+              "ToolTip": "D:\\New folder (3)\\GadHub\\GadHub\\GiaoDienChinh.cs*",
+              "RelativeToolTip": "GadHub\\GiaoDienChinh.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:18:43.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiaoDienChinh.cs [Design]",
+              "DocumentMoniker": "D:\\New folder (3)\\GadHub\\GadHub\\GiaoDienChinh.cs",
+              "RelativeDocumentMoniker": "GadHub\\GiaoDienChinh.cs",
+              "ToolTip": "D:\\New folder (3)\\GadHub\\GadHub\\GiaoDienChinh.cs [Design]*",
+              "RelativeToolTip": "GadHub\\GiaoDienChinh.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T02:35:47.966Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
