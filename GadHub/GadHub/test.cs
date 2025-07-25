@@ -7,17 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DevExpress.XtraEditors;
 
 namespace GadHub
 {
-    public partial class frmDashboard : Form
+    public partial class test : DevExpress.XtraEditors.XtraUserControl
     {
-        public frmDashboard()
+        public test()
         {
             InitializeComponent();
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void test_Load(object sender, EventArgs e)
         {
 
         }
