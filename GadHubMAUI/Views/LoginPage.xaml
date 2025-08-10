@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GadHubMAUI.Views.LoginPage"
+             BackgroundColor="Transparent"
+             NavigationPage.HasNavigationBar="False">
+
+    <!-- Nền gradient -->
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#4facfe" Offset="0.0" />
+            <GradientStop Color="#00f2fe" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ScrollView>
+        <Grid RowDefinitions="Auto,*,Auto"
+              Padding="20"
+              MinimumHeightRequest="650">
+
+            <!-- Header -->
+            <VerticalStackLayout Grid.Row="0" Spacing="20" Margin="0,40,0,0">
+                <Border BackgroundColor="White"
+                        Padding="30"
+                        Margin="0,0,0,20"
+                        StrokeShape="RoundRectangle 15"
+                        StrokeThickness="0"
+                        Shadow="{OnPlatform Android='5,5,10,Black', iOS='5,5,10,Black'}">
+                    <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                        <Image Source="logo.png"
+                               HeightRequest="90"
+                               WidthRequest="90"
+                               HorizontalOptions="Center" />
+                        <Label Text="GadHub"
+                               FontSize="30"
+                               FontAttributes="Bold"
+                               TextColor="#333"
+                               HorizontalOptions="Center" />
+                        <Label Text="Hệ thống quản lý cửa hàng"
+                               FontSize="16"
+                               TextColor="#666"
+                               HorizontalOptions="Center" />
+                    </VerticalStackLayout>
+                </Border>
+            </VerticalStackLayout>
+
+            <!-- Login Form -->
+            <Border Grid.Row="1"
+                    BackgroundColor="White"
+                    Padding="30"
+                    VerticalOptions="Center"
+                    Margin="0,20"
+                    StrokeShape="RoundRectangle 15"
+                    StrokeThickness="0"
+                    Shadow="{OnPlatform Android='5,5,10,Black', iOS='5,5,10,Black'}">
+                <VerticalStackLayout Spacing="25">
+                    <Label Text="Đăng nhập"
+                           FontSize="26"
+                           FontAttributes="Bold"
+                           TextColor="#333"
+                           HorizontalOptions="Center"
+                           Margin="0,0,0,10"/>
+
+                    <!-- Username -->
+                    <VerticalStackLayout Spacing="8">
+                        <Label Text="Tên đăng nhập"
+                               FontSize="16"
+                               FontAttributes="Bold"
+                               TextColor="#555"/>
+                        <Border BackgroundColor="#f2f2f2"
+                                StrokeShape="RoundRectangle 8"
+                                StrokeThickness="0">
+                            <Entry x:Name="txtUsername"
+                                   Placeholder="Nhập tên đăng nhập"
+                                   PlaceholderColor="#999"
+                                   TextColor="#333"
+                                   FontSize="16"
+                                   Margin="15,12" />
+                        </Border>
+                    </VerticalStackLayout>
+
+                    <!-- Password -->
+                    <VerticalStackLayout Spacing="8">
+                        <Label Text="Mật khẩu"
+                               FontSize="16"
+                               FontAttributes="Bold"
+                               TextColor="#555"/>
+                        <Border BackgroundColor="#f2f2f2"
+                                StrokeShape="RoundRectangle 8"
+                                StrokeThickness="0">
+                            <Entry x:Name="txtPassword"
+                                   Placeholder="Nhập mật khẩu"
+                                   PlaceholderColor="#999"
+                                   TextColor="#333"
+                                   FontSize="16"
+                                   IsPassword="True"
+                                   Margin="15,12" />
+                        </Border>
+                    </VerticalStackLayout>
+
+                    <!-- Button -->
+                    <Button x:Name="btnLogin"
+                            Text="ĐĂNG NHẬP"
+                            Clicked="btnLogin_Clicked"
+                            BackgroundColor="#4facfe"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            HeightRequest="50"
+                            CornerRadius="25"
+                            Shadow="{OnPlatform Android='3,3,6,Black', iOS='3,3,6,Black'}"
+                            Margin="0,15,0,0" />
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Footer -->
+            <VerticalStackLayout Grid.Row="2"
+                                 HorizontalOptions="Center"
+                                 Margin="0,30,0,20">
+                <Label Text="© 2025 GadHub. All rights reserved."
+                       FontSize="14"
+                       TextColor="#EEE" />
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

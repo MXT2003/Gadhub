@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GadHubMAUI.Views.ThemSanPhamPage"
+             Title="Thêm sản phẩm"
+             BackgroundColor="White">
+    <ScrollView>
+        <VerticalStackLayout Padding="25" Spacing="20">
+            <!-- Hình ảnh sản phẩm -->
+            <Frame BorderColor="{StaticResource Gray200}"
+                   CornerRadius="15"
+                   Padding="15"
+                   HasShadow="True"
+                   BackgroundColor="White"
+                   HeightRequest="200"
+                   HorizontalOptions="Fill">
+                <Grid RowDefinitions="*,Auto">
+                    <Image x:Name="imgSanPham"
+                           Grid.Row="0"
+                           Source="dotnet_bot.png"
+                           Aspect="AspectFit"
+                           HeightRequest="150"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center" />
+                    <Button Grid.Row="1"
+                            Text="CHỌN ẢNH"
+                            FontAttributes="Bold"
+                            FontSize="14"
+                            BackgroundColor="{StaticResource Primary}"
+                            TextColor="White"
+                            CornerRadius="10"
+                            Margin="0,10,0,0"
+                            HeightRequest="45"
+                            HorizontalOptions="Center"
+                            Clicked="btnChonAnh_Clicked" />
+                </Grid>
+            </Frame>
+
+            <!-- Thông tin sản phẩm -->
+            <Frame BorderColor="{StaticResource Gray200}"
+                   CornerRadius="15"
+                   Padding="18"
+                   HasShadow="True"
+                   BackgroundColor="White">
+                <VerticalStackLayout Spacing="15">
+                    <Label Text="Thông tin sản phẩm"
+                           FontAttributes="Bold"
+                           FontSize="20"
+                           TextColor="{StaticResource Primary}" />
+                    
+                    <!-- Tên sản phẩm -->
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="Tên sản phẩm"
+                               FontSize="16"
+                               TextColor="{StaticResource Black}" />
+                        <Frame Padding="0"
+                               BorderColor="{StaticResource Gray200}"
+                               BackgroundColor="White"
+                               CornerRadius="10"
+                               HasShadow="False">
+                            <Entry x:Name="entryTenSP"
+                                   Placeholder="Nhập tên sản phẩm"
+                                   FontSize="16"
+                                   Margin="10,0"
+                                   MaxLength="100" />
+                        </Frame>
+                    </VerticalStackLayout>
+                    
+                    <!-- Danh mục và Loại sản phẩm -->
+                    <Grid ColumnDefinitions="*,*" ColumnSpacing="15">
+                        <VerticalStackLayout Grid.Column="0" Spacing="5">
+                            <Label Text="Danh mục"
+                                   FontSize="16"
+                                   TextColor="{StaticResource Black}" />
+                            <Frame Padding="0"
+                                   BorderColor="{StaticResource Gray200}"
+                                   BackgroundColor="White"
+                                   CornerRadius="10"
+                                   HasShadow="False">
+                                <Picker x:Name="pickerDanhMuc"
+                                        Title="Chọn danh mục"
+                                        FontSize="16"
+                                        Margin="10,0"
+                                        SelectedIndexChanged="pickerDanhMuc_SelectedIndexChanged" />
+                            </Frame>
+                        </VerticalStackLayout>
+                        
+                        <VerticalStackLayout Grid.Column="1" Spacing="5">
+                            <Label Text="Loại sản phẩm"
+                                   FontSize="16"
+                                   TextColor="{StaticResource Black}" />
+                            <Frame Padding="0"
+                                   BorderColor="{StaticResource Gray200}"
+                                   BackgroundColor="White"
+                                   CornerRadius="10"
+                                   HasShadow="False">
+                                <Picker x:Name="pickerLoaiSP"
+                                        Title="Chọn loại"
+                                        FontSize="16"
+                                        Margin="10,0"
+                                        IsEnabled="False" />
+                            </Frame>
+                        </VerticalStackLayout>
+                    </Grid>
+                    
+                    <!-- Giá bán và Số lượng -->
+                    <Grid ColumnDefinitions="*,*" ColumnSpacing="15">
+                        <VerticalStackLayout Grid.Column="0" Spacing="5">
+                            <Label Text="Giá bán"
+                                   FontSize="16"
+                                   TextColor="{StaticResource Black}" />
+                            <Frame Padding="0"
+                                   BorderColor="{StaticResource Gray200}"
+                                   BackgroundColor="White"
+                                   CornerRadius="10"
+                                   HasShadow="False">
+                                <Entry x:Name="entryGiaBan"
+                                       Placeholder="Nhập giá bán"
+                                       FontSize="16"
+                                       Margin="10,0"
+                                       Keyboard="Numeric" />
+                            </Frame>
+                        </VerticalStackLayout>
+                        
+                        <VerticalStackLayout Grid.Column="1" Spacing="5">
+                            <Label Text="Số lượng"
+                                   FontSize="16"
+                                   TextColor="{StaticResource Black}" />
+                            <Frame Padding="0"
+                                   BorderColor="{StaticResource Gray200}"
+                                   BackgroundColor="White"
+                                   CornerRadius="10"
+                                   HasShadow="False">
+                                <Entry x:Name="entrySoLuong"
+                                       Placeholder="Nhập số lượng"
+                                       FontSize="16"
+                                       Margin="10,0"
+                                       Keyboard="Numeric" />
+                            </Frame>
+                        </VerticalStackLayout>
+                    </Grid>
+                    
+                    <!-- Mô tả sản phẩm -->
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="Mô tả sản phẩm"
+                               FontSize="16"
+                               TextColor="{StaticResource Black}" />
+                        <Frame Padding="0"
+                               BorderColor="{StaticResource Gray200}"
+                               BackgroundColor="White"
+                               CornerRadius="10"
+                               HasShadow="False">
+                            <Editor x:Name="editorMoTa"
+                                    Placeholder="Nhập mô tả sản phẩm"
+                                    FontSize="16"
+                                    Margin="10"
+                                    HeightRequest="120"
+                                    AutoSize="TextChanges" />
+                        </Frame>
+                    </VerticalStackLayout>
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Nút chức năng -->
+            <Grid ColumnDefinitions="*,*" 
+                  ColumnSpacing="20"
+                  Margin="0,10,0,20">
+                <Button Text="HỦY"
+                        Grid.Column="0"
+                        BackgroundColor="{StaticResource Gray300}"
+                        TextColor="{StaticResource Black}"
+                        FontAttributes="Bold"
+                        FontSize="16"
+                        HeightRequest="55"
+                        CornerRadius="10"
+                        Clicked="btnHuy_Clicked" />
+                <Button Text="LƯU"
+                        Grid.Column="1"
+                        BackgroundColor="{StaticResource Primary}"
+                        TextColor="White"
+                        FontAttributes="Bold"
+                        FontSize="16"
+                        HeightRequest="55"
+                        CornerRadius="10"
+                        Clicked="btnLuu_Clicked" />
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

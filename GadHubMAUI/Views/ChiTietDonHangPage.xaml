@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GadHubMAUI.Views.ChiTietDonHangPage"
+             Title="Chi tiết đơn hàng">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+            <!-- Thông tin đơn hàng -->
+            <Frame BorderColor="LightGray"
+                   CornerRadius="10"
+                   Padding="15">
+                <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto" 
+                      RowSpacing="10"
+                      ColumnDefinitions="Auto,*"
+                      ColumnSpacing="15">
+                    <Label Text="Mã đơn hàng:"
+                           FontAttributes="Bold"
+                           TextColor="Black"
+                           Grid.Row="0"
+                           Grid.Column="0" />
+                    <Label x:Name="lblMaHD"
+                           TextColor="Black"
+                           Grid.Row="0"
+                           Grid.Column="1" />
+
+                    <Label Text="Ngày lập:"
+                           FontAttributes="Bold"
+                           TextColor="Black"
+                           Grid.Row="1"
+                           Grid.Column="0" />
+                    <Label x:Name="lblNgayLap"
+                           TextColor="Black"
+                           Grid.Row="1"
+                           Grid.Column="1" />
+
+                    <Label Text="Khách hàng:"
+                           FontAttributes="Bold"
+                           TextColor="Black"
+                           Grid.Row="2"
+                           Grid.Column="0" />
+                    <Label x:Name="lblKhachHang"
+                           TextColor="Black"
+                           Grid.Row="2"
+                           Grid.Column="1" />
+
+                    <Label Text="Nhân viên:"
+                           FontAttributes="Bold"
+                           TextColor="Black"
+                           Grid.Row="3"
+                           Grid.Column="0" />
+                    <Label x:Name="lblNhanVien"
+                           TextColor="Black"
+                           Grid.Row="3"
+                           Grid.Column="1" />
+
+                    <Label Text="Tổng tiền:"
+                           FontAttributes="Bold"
+                           TextColor="Black"
+                           Grid.Row="4"
+                           Grid.Column="0" />
+                    <Label x:Name="lblTongTien"
+                           FontAttributes="Bold"
+                           TextColor="#FF5722"
+                           Grid.Row="4"
+                           Grid.Column="1" />
+                </Grid>
+            </Frame>
+
+            <!-- Chi tiết đơn hàng -->
+            <Label Text="Chi tiết đơn hàng"
+                   FontSize="18"
+                   FontAttributes="Bold"
+                   TextColor="Black"
+                   Margin="0,10,0,5" />
+
+            <Frame BorderColor="LightGray"
+                   CornerRadius="10"
+                   Padding="15">
+                <CollectionView x:Name="cvChiTietDonHang">
+                    <CollectionView.Header>
+                        <Grid ColumnDefinitions="*,Auto,Auto,Auto"
+                              Padding="0,0,0,10">
+                            <Label Text="Sản phẩm"
+                                   FontAttributes="Bold"
+                                   TextColor="Black"
+                                   Grid.Column="0" />
+                            <Label Text="SL"
+                                   FontAttributes="Bold"
+                                   TextColor="Black"
+                                   Grid.Column="1"
+                                   HorizontalOptions="End" />
+                            <Label Text="Đơn giá"
+                                   FontAttributes="Bold"
+                                   TextColor="Black"
+                                   Grid.Column="2"
+                                   HorizontalOptions="End"
+                                   Margin="15,0" />
+                            <Label Text="Thành tiền"
+                                   FontAttributes="Bold"
+                                   TextColor="Black"
+                                   Grid.Column="3"
+                                   HorizontalOptions="End" />
+                        </Grid>
+                    </CollectionView.Header>
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid ColumnDefinitions="*,Auto,Auto,Auto"
+                                  Padding="0,10">
+                                <Label Text="{Binding TenSP}"
+                                       TextColor="Black"
+                                       Grid.Column="0"
+                                       VerticalOptions="Center" />
+                                <Label Text="{Binding SoLuong}"
+                                       TextColor="Black"
+                                       Grid.Column="1"
+                                       HorizontalOptions="End"
+                                       VerticalOptions="Center" />
+                                <Label Text="{Binding DonGia, StringFormat='{0:#,##0}'}"
+                                       TextColor="Black"
+                                       Grid.Column="2"
+                                       HorizontalOptions="End"
+                                       VerticalOptions="Center"
+                                       Margin="15,0" />
+                                <Label Text="{Binding ThanhTien, StringFormat='{0:#,##0}'}"
+                                       TextColor="Black"
+                                       Grid.Column="3"
+                                       HorizontalOptions="End"
+                                       VerticalOptions="Center" />
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </Frame>
+
+            <!-- Nút chức năng -->
+            <Button Text="In hóa đơn"
+                    BackgroundColor="#2196F3"
+                    Clicked="btnInHoaDon_Clicked"
+                    Margin="0,10,0,0" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

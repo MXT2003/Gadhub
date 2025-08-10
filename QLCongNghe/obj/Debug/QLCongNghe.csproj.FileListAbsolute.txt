@@ -1,0 +1,314 @@
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\Reports\rptDoanhThuThang.rdlc
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\QLCongNghe.exe.config
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\QLCongNghe.exe
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\QLCongNghe.pdb
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.BonusSkins.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Charts.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Data.Desktop.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Data.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Drawing.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Office.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Pdf.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.PivotGrid.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Printing.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.RichEdit.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.RichEdit.v25.1.Export.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Sparkline.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Utils.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Utils.v25.1.UI.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Xpo.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraBars.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.UI.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.Wizard.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraEditors.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraGauges.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraGrid.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraLayout.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraNavBar.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraPrinting.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraReports.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraReports.v25.1.Extensions.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Pdf.v25.1.Drawing.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraTreeList.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraRichEdit.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraVerticalGrid.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.DataAccess.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.DataVisualization.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.CodeParser.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.DataAccess.v25.1.UI.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraPivotGrid.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.Extensions.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\EnvDTE.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Images.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\System.Memory.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraDiagram.v25.1.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Diagram.v25.1.Core.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\stdole.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\System.Numerics.Vectors.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Charts.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Data.Desktop.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Data.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Drawing.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Office.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Pdf.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.PivotGrid.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Printing.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.RichEdit.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Sparkline.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Utils.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Utils.v25.1.UI.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Xpo.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraBars.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.UI.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.Wizard.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraEditors.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraGauges.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraGrid.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraLayout.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraNavBar.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraPrinting.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraReports.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraReports.v25.1.Extensions.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Pdf.v25.1.Drawing.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraTreeList.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraRichEdit.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraVerticalGrid.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.DataAccess.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.DataAccess.v25.1.UI.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraPivotGrid.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraDiagram.v25.1.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\DevExpress.Diagram.v25.1.Core.xml
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.csproj.AssemblyReference.cache
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.CaiDatUC.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.DashboardUC.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.DonHangUC.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormChiTietSanPham.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormDoiMatKhau.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormTaoHoaDon.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormThemNhanVien.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormThemSanPham.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormThongTinNV.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.KhachHangUC.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.LoginForm.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.MainForm.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.Card.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.QLNhanVienUC.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.SanPhamUC.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.ThongKeUC.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Properties.Resources.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Reports.FormBaoCaoDoanhThuThang.resources
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.csproj.GenerateResource.cache
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.csproj.CoreCompileInputs.cache
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.csproj.Up2Date
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.exe
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.pdb
+D:\Lập trình môi trường Window\GadHub\QLCongNghe\obj\Debug\QLCongNghe.exe.config
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\Reports\rptDoanhThuThang.rdlc
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\QLCongNghe.exe.config
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\QLCongNghe.exe
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\QLCongNghe.pdb
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.BonusSkins.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Charts.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Data.Desktop.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Data.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Drawing.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Office.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Pdf.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.PivotGrid.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Printing.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.RichEdit.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.RichEdit.v25.1.Export.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Sparkline.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Utils.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Utils.v25.1.UI.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Xpo.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraBars.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.UI.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.Wizard.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraEditors.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraGauges.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraGrid.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraLayout.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraNavBar.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraPrinting.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraReports.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraReports.v25.1.Extensions.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Pdf.v25.1.Drawing.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraTreeList.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraRichEdit.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraVerticalGrid.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.DataAccess.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.DataVisualization.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.CodeParser.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.DataAccess.v25.1.UI.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraPivotGrid.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.Extensions.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\EnvDTE.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Images.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\System.Memory.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraDiagram.v25.1.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Diagram.v25.1.Core.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\stdole.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Charts.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Data.Desktop.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Data.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Drawing.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Office.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Pdf.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.PivotGrid.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Printing.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.RichEdit.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Sparkline.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Utils.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Utils.v25.1.UI.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Xpo.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraBars.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.UI.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraCharts.v25.1.Wizard.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraEditors.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraGauges.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraGrid.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraLayout.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraNavBar.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraPrinting.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraReports.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraReports.v25.1.Extensions.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Pdf.v25.1.Drawing.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraTreeList.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraRichEdit.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraVerticalGrid.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.DataAccess.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.DataAccess.v25.1.UI.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraPivotGrid.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.XtraDiagram.v25.1.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\DevExpress.Diagram.v25.1.Core.xml
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.csproj.AssemblyReference.cache
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.exe.config
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.CaiDatUC.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.DashboardUC.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.DonHangUC.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormChiTietSanPham.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormDoiMatKhau.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormTaoHoaDon.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormThemNhanVien.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormThemSanPham.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.FormThongTinNV.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.KhachHangUC.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.LoginForm.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.MainForm.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.Card.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.QLNhanVienUC.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.SanPhamUC.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Forms.ThongKeUC.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Properties.Resources.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.Reports.FormBaoCaoDoanhThuThang.resources
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.csproj.GenerateResource.cache
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.csproj.CoreCompileInputs.cache
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.csproj.Up2Date
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.exe
+C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHub\GadHub\QLCongNghe\obj\Debug\QLCongNghe.pdb

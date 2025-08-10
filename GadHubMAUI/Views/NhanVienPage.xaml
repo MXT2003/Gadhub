@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GadHubMAUI.Views.NhanVienPage"
+             Title="Nhân viên"
+             BackgroundColor="White">
+    <Grid RowDefinitions="Auto,*"
+          Padding="25">
+
+        <!-- Search and Add -->
+        <Grid Grid.Row="0" 
+              ColumnDefinitions="*,Auto"
+              Margin="0,10,0,15">
+            <Frame Grid.Column="0"
+                   Padding="5,0"
+                   BorderColor="{StaticResource Gray200}"
+                   BackgroundColor="White"
+                   CornerRadius="15"
+                   HasShadow="True">
+                <SearchBar x:Name="searchBar"
+                           Placeholder="Tìm kiếm nhân viên..."
+                           SearchButtonPressed="searchBar_SearchButtonPressed"
+                           TextChanged="searchBar_TextChanged"
+                           BackgroundColor="Transparent"
+                           FontSize="16" />
+            </Frame>
+            <Button Grid.Column="1"
+                    Text="+"
+                    FontSize="22"
+                    FontAttributes="Bold"
+                    WidthRequest="55"
+                    HeightRequest="55"
+                    CornerRadius="15"
+                    BackgroundColor="{StaticResource Primary}"
+                    TextColor="White"
+                    Clicked="btnThem_Clicked"
+                    Margin="10,0,0,0" />
+        </Grid>
+
+        <!-- Staff List -->
+        <CollectionView x:Name="cvNhanVien"
+                        Grid.Row="1"
+                        EmptyView="Không có nhân viên nào"
+                        Margin="0,5">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="{StaticResource Gray200}"
+                           CornerRadius="15"
+                           HasShadow="True"
+                           BackgroundColor="White"
+                           Padding="18"
+                           Margin="0,8">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer CommandParameter="{Binding MaNV}"
+                                                  Tapped="NhanVien_Tapped" />
+                        </Frame.GestureRecognizers>
+                        <Grid ColumnDefinitions="Auto,*,Auto" ColumnSpacing="15">
+                            <Frame Grid.Column="0"
+                                   WidthRequest="55"
+                                   HeightRequest="55"
+                                   CornerRadius="27.5"
+                                   Padding="0"
+                                   HasShadow="False"
+                                   IsClippedToBounds="True"
+                                   BorderColor="{StaticResource Gray200}">
+                                <Image Source="{Binding HinhAnh}"
+                                       Aspect="AspectFill"
+                                       WidthRequest="55"
+                                       HeightRequest="55" />
+                            </Frame>
+                            <VerticalStackLayout Grid.Column="1" Spacing="8">
+                                <Label Text="{Binding TenNV}"
+                                       FontAttributes="Bold"
+                                       FontSize="16"
+                                       TextColor="{StaticResource Black}" />
+                                <Label Text="{Binding SDT}"
+                                       TextColor="{StaticResource Primary}"
+                                       FontSize="15" />
+                                <Label Text="{Binding DiaChi}"
+                                       TextColor="{StaticResource Gray600}"
+                                       FontSize="14"
+                                       LineBreakMode="TailTruncation" />
+                            </VerticalStackLayout>
+                            <Button Grid.Column="2"
+                                    Text="SỬA"
+                                    FontSize="14"
+                                    FontAttributes="Bold"
+                                    HeightRequest="40"
+                                    WidthRequest="70"
+                                    Padding="0"
+                                    CornerRadius="10"
+                                    BackgroundColor="{StaticResource Primary}"
+                                    TextColor="White"
+                                    CommandParameter="{Binding MaNV}"
+                                    Clicked="btnSua_Clicked" />
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

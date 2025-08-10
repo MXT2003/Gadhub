@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\sanphamuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\sanphamuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|c:\\users\\danhu\\onedrive\\desktop\\ltw\\doancuoiki\\gadhub\\gadhub\\qlcongnghe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|c:\\users\\danhu\\onedrive\\desktop\\ltw\\doancuoiki\\gadhub\\gadhub\\qlcongnghe\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\thongkeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\thongkeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\dashboarduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\dashboarduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\donhanguc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\donhanguc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formthemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formthemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\donhanguc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\donhanguc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\sanphamuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\sanphamuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\qlnhanvienuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\qlnhanvienuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\dashboarduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\dashboarduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\dto\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:dto\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\caidatuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\caidatuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formthongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formthongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\thongkeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\thongkeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formtaohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formtaohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formthemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formthemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\khachhanguc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\khachhanguc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\nhanviencard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\nhanviencard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\qlnhanvienuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\qlnhanvienuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\forms\\formthongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE8704-AB05-4711-8BF5-F00B46CC2080}|QLCongNghe.csproj|solutionrelative:forms\\formthongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\DataAccess\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\DataAccess\\DatabaseHelper.cs",
+              "RelativeToolTip": "DataAccess\\DatabaseHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:51:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonHangUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\DonHangUC.cs",
+              "RelativeDocumentMoniker": "Forms\\DonHangUC.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u00F4i tr\u01B0\u1EDDng Window\\GadHub\\QLCongNghe\\Forms\\DonHangUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:13:25.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormThemSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThemSanPham.cs",
+              "RelativeDocumentMoniker": "Forms\\FormThemSanPham.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u00F4i tr\u01B0\u1EDDng Window\\GadHub\\QLCongNghe\\Forms\\FormThemSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:01:53.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPhamUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\SanPhamUC.cs",
+              "RelativeDocumentMoniker": "Forms\\SanPhamUC.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\SanPhamUC.cs [Design]",
+              "RelativeToolTip": "Forms\\SanPhamUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:48:24.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThongKeUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\ThongKeUC.cs",
+              "RelativeDocumentMoniker": "Forms\\ThongKeUC.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u00F4i tr\u01B0\u1EDDng Window\\GadHub\\QLCongNghe\\Forms\\ThongKeUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:32:53.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamUC.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\SanPhamUC.cs",
+              "RelativeDocumentMoniker": "Forms\\SanPhamUC.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\SanPhamUC.cs",
+              "RelativeToolTip": "Forms\\SanPhamUC.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwHoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:11:10.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:39:55.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-10T16:17:34.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormThemNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThemNhanVien.cs",
+              "RelativeDocumentMoniker": "Forms\\FormThemNhanVien.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u00F4i tr\u01B0\u1EDDng Window\\GadHub\\QLCongNghe\\Forms\\FormThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:45:03.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QLNhanVienUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\QLNhanVienUC.cs",
+              "RelativeDocumentMoniker": "Forms\\QLNhanVienUC.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u00F4i tr\u01B0\u1EDDng Window\\GadHub\\QLCongNghe\\Forms\\QLNhanVienUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:43:44.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QLNhanVienUC.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\QLNhanVienUC.cs",
+              "RelativeDocumentMoniker": "Forms\\QLNhanVienUC.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\QLNhanVienUC.cs",
+              "RelativeToolTip": "Forms\\QLNhanVienUC.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:09:40.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NhanVienCard.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\NhanVienCard.cs",
+              "RelativeDocumentMoniker": "Forms\\NhanVienCard.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\NhanVienCard.cs",
+              "RelativeToolTip": "Forms\\NhanVienCard.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:09:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAADgv8MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:08:59.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:08:40.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KhachHangUC.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\KhachHangUC.cs",
+              "RelativeDocumentMoniker": "Forms\\KhachHangUC.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\KhachHangUC.cs",
+              "RelativeToolTip": "Forms\\KhachHangUC.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:08:34.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormThemSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThemSanPham.cs",
+              "RelativeDocumentMoniker": "Forms\\FormThemSanPham.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThemSanPham.cs",
+              "RelativeToolTip": "Forms\\FormThemSanPham.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAkwKAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:06:20.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormThemNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThemNhanVien.cs",
+              "RelativeDocumentMoniker": "Forms\\FormThemNhanVien.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThemNhanVien.cs",
+              "RelativeToolTip": "Forms\\FormThemNhanVien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:03:38.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormTaoHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormTaoHoaDon.cs",
+              "RelativeDocumentMoniker": "Forms\\FormTaoHoaDon.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormTaoHoaDon.cs",
+              "RelativeToolTip": "Forms\\FormTaoHoaDon.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:03:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormChiTietSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormChiTietSanPham.cs",
+              "RelativeDocumentMoniker": "Forms\\FormChiTietSanPham.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormChiTietSanPham.cs",
+              "RelativeToolTip": "Forms\\FormChiTietSanPham.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:01:04.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonHangUC.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\DonHangUC.cs",
+              "RelativeDocumentMoniker": "Forms\\DonHangUC.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\DonHangUC.cs",
+              "RelativeToolTip": "Forms\\DonHangUC.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv3cAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:00:40.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\DashboardUC.cs",
+              "RelativeDocumentMoniker": "Forms\\DashboardUC.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u00F4i tr\u01B0\u1EDDng Window\\GadHub\\QLCongNghe\\Forms\\DashboardUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:00:17.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThongKeUC.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\ThongKeUC.cs",
+              "RelativeDocumentMoniker": "Forms\\ThongKeUC.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\ThongKeUC.cs",
+              "RelativeToolTip": "Forms\\ThongKeUC.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwIkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:54:16.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardUC.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\DashboardUC.cs",
+              "RelativeDocumentMoniker": "Forms\\DashboardUC.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\DashboardUC.cs",
+              "RelativeToolTip": "Forms\\DashboardUC.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAhwCsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:53:34.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDoiMatKhau.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u00F4i tr\u01B0\u1EDDng Window\\GadHub\\QLCongNghe\\Forms\\FormDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:53:00.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormThongTinNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThongTinNV.cs",
+              "RelativeDocumentMoniker": "Forms\\FormThongTinNV.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u00F4i tr\u01B0\u1EDDng Window\\GadHub\\QLCongNghe\\Forms\\FormThongTinNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:16:50.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormDoiMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormDoiMatKhau.cs",
+              "RelativeToolTip": "Forms\\FormDoiMatKhau.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:11:38.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormThongTinNV.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThongTinNV.cs",
+              "RelativeDocumentMoniker": "Forms\\FormThongTinNV.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\FormThongTinNV.cs",
+              "RelativeToolTip": "Forms\\FormThongTinNV.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwJEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:08:19.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CaiDatUC.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\CaiDatUC.cs",
+              "RelativeDocumentMoniker": "Forms\\CaiDatUC.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\Forms\\CaiDatUC.cs",
+              "RelativeToolTip": "Forms\\CaiDatUC.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv3IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:25:55.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\DTO\\Session.cs",
+              "RelativeDocumentMoniker": "DTO\\Session.cs",
+              "ToolTip": "C:\\Users\\danhu\\OneDrive\\Desktop\\LTW\\DoAnCuoiKi\\GadHub\\GadHub\\QLCongNghe\\DTO\\Session.cs",
+              "RelativeToolTip": "DTO\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:24:48.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

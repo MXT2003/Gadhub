@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GadHubMAUI.Views.DonHangPage"
+             Title="Đơn hàng"
+             BackgroundColor="White">
+    <Grid RowDefinitions="Auto,*"
+          Padding="25">
+
+        <!-- Search and Add -->
+        <Grid Grid.Row="0" 
+              ColumnDefinitions="*,Auto"
+              Margin="0,10,0,15">
+            <Frame Grid.Column="0"
+                   Padding="5,0"
+                   BorderColor="{StaticResource Gray200}"
+                   BackgroundColor="White"
+                   CornerRadius="15"
+                   HasShadow="True">
+                <SearchBar x:Name="searchBar"
+                           Placeholder="Tìm kiếm đơn hàng..."
+                           SearchButtonPressed="searchBar_SearchButtonPressed"
+                           TextChanged="searchBar_TextChanged"
+                           BackgroundColor="Transparent"
+                           FontSize="16" />
+            </Frame>
+            <Button Grid.Column="1"
+                    Text="+"
+                    FontSize="22"
+                    FontAttributes="Bold"
+                    WidthRequest="55"
+                    HeightRequest="55"
+                    CornerRadius="15"
+                    BackgroundColor="{StaticResource Primary}"
+                    TextColor="White"
+                    Clicked="btnThem_Clicked"
+                    Margin="10,0,0,0" />
+        </Grid>
+
+        <!-- Order List -->
+        <CollectionView x:Name="cvDonHang"
+                        Grid.Row="1"
+                        EmptyView="Không có đơn hàng nào"
+                        Margin="0,5">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="{StaticResource Gray200}"
+                           CornerRadius="15"
+                           HasShadow="True"
+                           BackgroundColor="White"
+                           Padding="18"
+                           Margin="0,8">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer CommandParameter="{Binding MaHD}"
+                                                  Tapped="DonHang_Tapped" />
+                        </Frame.GestureRecognizers>
+                        <Grid RowDefinitions="Auto,Auto" 
+                              ColumnDefinitions="*,Auto"
+                              RowSpacing="12">
+                            <VerticalStackLayout Grid.Row="0" Grid.Column="0" Spacing="8">
+                                <Label Text="{Binding MaHD}"
+                                       FontAttributes="Bold"
+                                       FontSize="16"
+                                       TextColor="{StaticResource Black}" />
+                                <Label Text="{Binding TenKH}"
+                                       TextColor="{StaticResource Primary}"
+                                       FontSize="15" />
+                            </VerticalStackLayout>
+                            
+                            <Label Grid.Row="0" Grid.Column="1"
+                                   Text="{Binding GiaTien, StringFormat='{0:N0} VNĐ'}"
+                                   FontAttributes="Bold"
+                                   FontSize="16"
+                                   TextColor="{StaticResource Success}" />
+                            
+                            <Label Grid.Row="1" Grid.Column="0"
+                                   Text="{Binding NgayLap, StringFormat='{0:dd/MM/yyyy HH:mm}'}"
+                                   TextColor="{StaticResource Gray600}"
+                                   FontSize="14" />
+                            
+                            <Label Grid.Row="1" Grid.Column="1"
+                                   Text="{Binding TenNV}"
+                                   TextColor="{StaticResource Gray600}"
+                                   FontSize="14"
+                                   HorizontalOptions="End" />
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

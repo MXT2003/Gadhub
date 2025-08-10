@@ -1,0 +1,109 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GadHubMAUI
+build_property.ProjectDir = C:\Users\danhu\OneDrive\Desktop\LTW\DoAnCuoiKi\GadHubMAUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/ChiTietDonHangPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.ChiTietDonHangPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ChiTietDonHangPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ChiTietDonHangPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/ChiTietKhachHangPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.ChiTietKhachHangPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ChiTietKhachHangPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ChiTietKhachHangPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/ChiTietSanPhamPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.ChiTietSanPhamPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ChiTietSanPhamPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ChiTietSanPhamPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/DashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.DashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DashboardPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/DonHangPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.DonHangPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DonHangPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DonHangPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/KhachHangPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.KhachHangPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\KhachHangPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\KhachHangPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/NhanVienPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.NhanVienPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NhanVienPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NhanVienPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/SanPhamPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.SanPhamPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SanPhamPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SanPhamPage.xaml
+
+[C:/Users/danhu/OneDrive/Desktop/LTW/DoAnCuoiKi/GadHubMAUI/Views/ThemSanPhamPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GadHubMAUI.Views.ThemSanPhamPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ThemSanPhamPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ThemSanPhamPage.xaml

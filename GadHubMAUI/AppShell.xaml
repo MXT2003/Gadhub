@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="GadHubMAUI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:GadHubMAUI"
+    xmlns:views="clr-namespace:GadHubMAUI.Views"
+    Title="GadHub"
+    FlyoutBehavior="Flyout"
+    Shell.FlyoutBackgroundColor="White"
+    Shell.ForegroundColor="Black"
+    Shell.TitleColor="Black">
+
+    <Shell.FlyoutHeader>
+        <Grid BackgroundColor="Blue" HeightRequest="150" Padding="20">
+            <VerticalStackLayout VerticalOptions="Center" Spacing="8">
+                <Label Text="GadHub" FontSize="28" FontAttributes="Bold" TextColor="White" />
+                <Label Text="Quản lý cửa hàng" FontSize="16" TextColor="White" />
+                <Label x:Name="lblUserInfo" Text="Admin" FontSize="14" TextColor="White" Margin="0,5,0,0" />
+            </VerticalStackLayout>
+        </Grid>
+    </Shell.FlyoutHeader>
+
+    <FlyoutItem Title="Trang chủ" Icon="home.svg">
+        <ShellContent ContentTemplate="{DataTemplate views:DashboardPage}" Route="DashboardPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Sản phẩm" Icon="product.svg">
+        <ShellContent ContentTemplate="{DataTemplate views:SanPhamPage}" Route="SanPhamPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Khách hàng" Icon="customer.svg">
+        <ShellContent ContentTemplate="{DataTemplate views:KhachHangPage}" Route="KhachHangPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Đơn hàng" Icon="order.svg">
+        <ShellContent ContentTemplate="{DataTemplate views:DonHangPage}" Route="DonHangPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Nhân viên" Icon="employee.svg">
+        <ShellContent ContentTemplate="{DataTemplate views:NhanVienPage}" Route="NhanVienPage" />
+    </FlyoutItem>
+
+    <MenuItem Text="Đăng xuất" IconImageSource="logout.svg" Command="{Binding LogoutCommand}" />
+
+</Shell>

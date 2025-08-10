@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GadHubMAUI.Views.SanPhamPage"
+             Title="Sản phẩm"
+             BackgroundColor="{StaticResource Gray50}">
+    <Grid RowDefinitions="Auto,Auto,*"
+          Padding="20">
+
+        <!-- Search and Filter -->
+        <Grid Grid.Row="0" 
+              ColumnDefinitions="*,Auto"
+              Margin="0,15,0,15">
+            <Frame Grid.Column="0"
+                   Padding="0"
+                   BackgroundColor="{StaticResource White}"
+                   CornerRadius="12"
+                   HasShadow="True">
+                <SearchBar x:Name="searchBar"
+                           Placeholder="Tìm kiếm sản phẩm..."
+                           PlaceholderColor="Black"
+                           TextColor="Black"
+                           SearchButtonPressed="searchBar_SearchButtonPressed"
+                           TextChanged="searchBar_TextChanged"
+                           BackgroundColor="Transparent"
+                           FontSize="16"
+                           Margin="10,0" />
+            </Frame>
+            <Button Grid.Column="1"
+                    Text="+"
+                    FontSize="24"
+                    FontAttributes="Bold"
+                    BackgroundColor="{StaticResource Primary}"
+                    TextColor="Black"
+                    WidthRequest="50"
+                    HeightRequest="50"
+                    CornerRadius="25"
+                    Clicked="btnThem_Clicked"
+                    Margin="10,0,0,0" />
+        </Grid>
+
+        <!-- Category Filter -->
+        <Grid Grid.Row="1" 
+              ColumnDefinitions="*,*"
+              Margin="0,0,0,15">
+            <Frame Grid.Column="0"
+                   Padding="0"
+                   BackgroundColor="{StaticResource White}"
+                   CornerRadius="12"
+                   Margin="0,0,5,0"
+                   HasShadow="True">
+                <Picker x:Name="pickerDanhMuc"
+                        Title="Danh mục"
+                        TitleColor="Black"
+                        TextColor="Black"
+                        FontSize="16"
+                        Margin="15,0"
+                        SelectedIndexChanged="pickerDanhMuc_SelectedIndexChanged" />
+            </Frame>
+            <Frame Grid.Column="1"
+                   Padding="0"
+                   BackgroundColor="{StaticResource White}"
+                   CornerRadius="12"
+                   Margin="5,0,0,0"
+                   HasShadow="True">
+                <Picker x:Name="pickerLoaiSP"
+                        Title="Loại sản phẩm"
+                        TitleColor="Black"
+                        TextColor="Black"
+                        FontSize="16"
+                        Margin="15,0"
+                        IsEnabled="False"
+                        SelectedIndexChanged="pickerLoaiSP_SelectedIndexChanged" />
+            </Frame>
+        </Grid>
+
+        <!-- Product List -->
+        <CollectionView Grid.Row="2"
+                        x:Name="cvSanPham"
+                        SelectionMode="None"
+                        Margin="0,5,0,0">
+            <CollectionView.EmptyView>
+                <Frame BackgroundColor="{StaticResource White}"
+                       CornerRadius="16"
+                       Padding="40"
+                       HasShadow="True"
+                       Margin="0,20">
+                    <Label Text="Không có sản phẩm nào"
+                           TextColor="Black" 
+                           FontSize="16"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center" />
+                </Frame>
+            </CollectionView.EmptyView>
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical"
+                                 Span="2"
+                                 HorizontalItemSpacing="12"
+                                 VerticalItemSpacing="12" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Padding="15"
+                           CornerRadius="16"
+                           BackgroundColor="{StaticResource White}"
+                           HasShadow="True">
+                        <Grid RowDefinitions="Auto,Auto,Auto,Auto">
+                            <Image Grid.Row="0"
+                                   Source="{Binding HinhAnh}"
+                                   HeightRequest="100"
+                                   Aspect="AspectFit"
+                                   Margin="0,0,0,10"
+                                   HorizontalOptions="Center" />
+                            <Label Grid.Row="1"
+                                   Text="{Binding TenSP}"
+                                   FontAttributes="Bold"
+                                   FontSize="14"
+                                   TextColor="Black"
+                                   LineBreakMode="TailTruncation"
+                                   HorizontalOptions="Center"
+                                   Margin="0,0,0,5" />
+                            <Label Grid.Row="2"
+                                   Text="{Binding DonGia, StringFormat='{0:N0} VNĐ'}"
+                                   TextColor="Black"
+                                   FontAttributes="Bold"
+                                   FontSize="13"
+                                   HorizontalOptions="Center"
+                                   Margin="0,0,0,5" />
+                            <Label Grid.Row="3"
+                                   Text="{Binding SoLuongTon, StringFormat='Còn lại: {0}'}"
+                                   TextColor="Black"
+                                   FontSize="12"
+                                   HorizontalOptions="Center" />
+                        </Grid>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer CommandParameter="{Binding MaSP}"
+                                                  Tapped="SanPham_Tapped" />
+                        </Frame.GestureRecognizers>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Gallery xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastID>30</LastID>
+  <Items>
+    <GalleryItem ID="0" ItemKind="ReportContainer" DisplayName="Reports" />
+    <GalleryItem ID="10" ItemKind="ControlContainer" DisplayName="Controls" />
+    <GalleryItem ID="20" ItemKind="StyleContainer" DisplayName="Styles" />
+    <GalleryItem ID="30" ItemKind="ComponentContainer" DisplayName="Data Sources" />
+    <GalleryItem ID="5" ItemKind="BandContainer" DisplayName="Bands" />
+  </Items>
+</Gallery>
