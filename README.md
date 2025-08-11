@@ -23,7 +23,7 @@ GadHub là ứng dụng quản lý bán hàng hướng tới các cửa hàng th
 ---
 
 <!-- ========================= FEATURES (WITH ANIMATED ICONS) ========================= -->
-## Tính năng nổi bật ✨
+## Tính năng nổi bật:
 
 - ✅ **Quản lý sản phẩm** (mã, tên, loại, giá, số lượng, mô tả)  
   <img src="assets/feats/products.gif" alt="products" width="28" style="vertical-align:middle;">
@@ -37,26 +37,7 @@ GadHub là ứng dụng quản lý bán hàng hướng tới các cửa hàng th
 ---
 
 <!-- ========================= LIVE STATS (GITHUB STATS) ========================= -->
-## Thống kê dự án
-<p align="center">
-  <!-- Thay USERNAME và REPO bằng của bạn; nếu không muốn, xóa phần này -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_title=true" alt="Github Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/>
-</p>
+
 
 ---
 
-<!-- ========================= VISUAL DIVIDER (ANIMATED) ========================= -->
-<p align="center">
-  <!-- Một GIF phân cách: bạn có thể dùng assets/divider.gif -->
-  <img src="assets/divider.gif" alt="divider" width="90%">
-</p>
-
----
-
-## Hướng dẫn nhanh (Quickstart)
-
-1. Clone repo:
-   ```bash
-   git clone https://github.com/USERNAME/REPO.git
